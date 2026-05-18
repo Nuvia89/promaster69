@@ -25,3 +25,4 @@ plt.title("Gráficas combinadas")
 plt.legend()
 plt.grid()
 plt.show()
+#waza
